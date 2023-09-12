@@ -1,9 +1,9 @@
 import backgroundImg from "./assets/images/backgroundImg7.jpg";
 const logotext = "SUNDES";
 const meta = {
-  title: "John Doe",
+  title: "Sundes Bashir",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "I’m Sundes Bashir Lecturer _ English Literature, currently working in Pakistan",
 };
 
 const introdata = {
