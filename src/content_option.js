@@ -16,7 +16,6 @@ const introdata = {
   },
   description:
     "Aspire to secure a dynamic and challenging position within a highly esteemed organization, where I can cultivate my passion for continuous learning.",
-  //   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
   your_img_url: backgroundImg,
 };
 const dataabout = {
