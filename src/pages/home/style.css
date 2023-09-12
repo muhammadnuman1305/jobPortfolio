@@ -82,9 +82,10 @@ section {
 }
 
 .intro_sec .text h1 {
-  font-size: 30px;
+  font-size: 22px;
   margin-bottom: 50px;
-  font-weight: 700;
+  font-weight: 500;
+  color: #49a4c6;
 }
 
 .intro_sec .text h3 {
