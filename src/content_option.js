@@ -1,25 +1,25 @@
-import backgroundImg from "./assets/images/backgroundImg7.jpg";
-const logotext = "SUNDES";
+import backgroundImg from "./assets/images/backgroundImg8.jpg";
+const logotext = "Sarah";
 const meta = {
-  title: "Sundes Bashir",
+  title: "Sarah Tritar",
   description:
-    "I’m Sundes Bashir Lecturer _ English Literature, currently working in Pakistan",
+    "I’m Sarah Tritar,Passionate Photographer, currently working in UAE",
 };
 
 const introdata = {
-  title: "I’m Sundes Bashir",
+  title: "I’m Sarah Tritar",
   animated: {
-    first: "I love Teaching",
+    first: "I love Photography",
     second:
-      "I explore timeless tales and delve into the depths of literary masterpieces.",
-    third: "I guide students through the rich tapestry of literary works.",
+      "Turning light and emotion into timeless photographs.",
+    third: "I explore the world through my camera and capture its hidden beauty.",
   },
   description:
-    "Aspire to secure a dynamic and challenging position within a highly esteemed organization, where I can cultivate my passion for continuous learning.",
+    "Aspire to capture meaningful moments and create timeless photographs, while helping clients preserve their most special memories.",
   your_img_url: backgroundImg,
 };
 const dataabout = {
-  title: "abit about my self",
+  title: "a bit about my-self",
   aboutme:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
@@ -159,7 +159,7 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "sundesbashir91@gmail.com",
+  YOUR_EMAIL: "numanzahid91@gmail.com",
   YOUR_FONE: "(555)123-4567",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
